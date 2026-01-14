@@ -16,7 +16,7 @@
     "name": "Xmind",
     "description": "Xmind integrates artificial intelligence to streamline complex cognitive processes.",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/xmind/"
   },
@@ -58,7 +58,7 @@
     "categories": [
       "Customized Teaching",
       " Self Study Tool",
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/briskteaching/"
   },
@@ -68,7 +68,7 @@
     "name": "Buzz Caption",
     "description": "Buzz Caption is an open-source, offline-capable transcription and translation tool powered by OpenAI’s Whisper model.",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/buzzcaption/"
   },
@@ -78,7 +78,7 @@
     "name": "Napkin AI",
     "description": "Napkin AI is an AI-powered visual storytelling tool designed to transform text into professional diagrams, flowcharts, infographics, and other visual forms for communication.",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/napkin-ai/"
   },
@@ -438,7 +438,7 @@
     "name": "AudioPen",
     "description": "AudioPen AI is an AI-powered dictation tool that converts voice notes into polished, editable text. It assists users in brainstorming ideas, drafting documents, or capturing thoughts verbally. ",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/audiopen/"
   },
@@ -549,7 +549,7 @@
     "name": "Memo AI",
     "description": "Memo AI offers comprehensive transcription, translation and processing media files with remarkable efficiency. Memo AI excels in converting various audio and video formats into text, supporting an extensive range of content sources and file types. ",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/memoai/"
   },
@@ -704,7 +704,7 @@
     "name": "Excalidraw",
     "description": "Excalidraw is an open-source, web-based whiteboard platform. It combines the spontaneity of hand-drawn sketches with the precision of digital design tools.",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/excalidraw/ "
   },
@@ -814,7 +814,7 @@
     "name": "Mylens",
     "description": "MyLens AI transforms complex content, websites, and videos into easily digestible visual formats. ",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/mylens/"
   },
@@ -874,7 +874,7 @@
     "name": "tldraw",
     "description": "Tldraw computer merges the flexibility of an infinite canvas with the power of multimodal language models to create dynamic, user-driven workflows. ",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/excalidraw/ "
   },
@@ -945,7 +945,7 @@
     "name": "AssemblyAI",
     "description": "AssemblyAI offers a suite of advanced models that enable developers and enterprises to convert audio data into actionable insights. The platform addresses critical challenges in speech recognition, speaker identification, and audio analysis. ",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/assemblyai/"
   },
@@ -955,7 +955,7 @@
     "name": "Tongyi Tingwu (通義聽悟)",
     "description": "Tongyi Tingwu (通義聽悟) combines  speech, language, and visual processing to deliver many distinct AI functions, enabling comprehensive handling of audio-visual data.",
     "categories": [
-      "Adaptive Learning"
+      "Self Study Tool"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/tongyi-tingwu/"
   },
@@ -1046,7 +1046,7 @@
     "name": "Lumi",
     "description": "Lumi is a versatile educational tool designed to create, edit, and share interactive learning content based on the H5P standard. ",
     "categories": [
-      ""
+      "Customized Teaching"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/lumi/"
   }
