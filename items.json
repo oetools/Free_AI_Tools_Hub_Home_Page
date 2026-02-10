@@ -1049,5 +1049,15 @@
       "Customized Teaching"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/lumi/"
-  }
+  },
+  {
+    "id": 105,
+    "logo": "<img src=\"https://www.hkmu.edu.hk/oetools/wp-content/uploads/sites/86/2026/02/105-logo-e1770691338950.png\" alt=\"Tool Logo\" style=\"height: 80px;\">",
+    "name": "OpenClaw",
+    "description": "OpenClaw (formerly known as Clawd Bot or MoltBot) is an open-source, AI-driven agent platform designed for local deployment and integrates directly with ubiquitous messaging platforms.",
+    "categories": [
+      "Efficiency Enhancement", "Personalized Assistant"
+    ],
+    "url": "https://www.hkmu.edu.hk/oetools/openclaw"
+  },
 ]
