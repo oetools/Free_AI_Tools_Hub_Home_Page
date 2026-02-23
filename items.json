@@ -1058,6 +1058,28 @@
     "categories": [
       "Efficiency Enhancement", "Personalized Assistant"
     ],
-    "url": "https://www.hkmu.edu.hk/oetools/openclaw"
+    "url": "https://www.hkmu.edu.hk/oetools/openclaw/"
+  },
+  {
+    "id": 106,
+    "logo": "<img src=\"https://www.hkmu.edu.hk/oetools/106-logo/\" alt=\"Tool Logo\" style=\"height: 80px;\">",
+    "name": "Zotero",
+    "description": "Zotero is a free, open-source reference management software designed to help users collect, organise, cite, and share research materials.",
+    "categories": [
+      "Personalized Assistant", "Efficiency Enhancement"
+    ],
+    "url": "https://www.hkmu.edu.hk/oetools/zotero/"
+  },
+  {
+    "id": 107,
+    "logo": "<img src=\"https://www.hkmu.edu.hk/oetools/wp-content/uploads/sites/86/2026/02/107-logo.png\" alt=\"Tool Logo\" style=\"height: 80px;\">",
+    "name": "Readwise",
+    "description": "Readwise is a comprehensive knowledge management and reading companion designed to help users retain and apply what they learn.",
+    "categories": [
+      "Self Study Tool"
+    ],
+    "url": "https://www.hkmu.edu.hk/oetools/readwise/"
   }
 ]
+
+
