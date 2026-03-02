@@ -901,8 +901,8 @@
   {
     "id": 90,
     "logo": "<img src=\"https://www.hkmu.edu.hk/oetools/wp-content/uploads/sites/86/2025/05/Scihubaddon.png\" alt=\"Tool Logo\" style=\"height: 80px;\">",
-    "name": "Scihub addon",
-    "description": "SciHub Addon is a Chrome extension designed to significantly enhance research efficiency for academics and scientists. This tool integrates multiple research databases, citation management, translation capabilities, and academic metrics into a single interface, providing researchers with a comprehensive toolkit for scholarly activities. ",
+    "name": "One Scholar",
+    "description": "One Scholar is a Chrome extension designed to significantly enhance research efficiency for academics and scientists. This tool integrates multiple research databases, citation management, translation capabilities, and academic metrics into a single interface, providing researchers with a comprehensive toolkit for scholarly activities. ",
     "categories": [
       "Resources Recommendation"
     ],
