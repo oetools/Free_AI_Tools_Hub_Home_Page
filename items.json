@@ -15,7 +15,7 @@
     "name": "Xmind",
     "description": "Xmind integrates artificial intelligence to streamline complex cognitive processes.",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/xmind/"
   },
@@ -25,7 +25,7 @@
     "name": "PDFGear",
     "description": "PDFGear offers a comprehensive suite of tools that integrate artificial intelligence, robust editing capabilities, and cost-effective accessibility.",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/pdfgear/"
   },
@@ -35,7 +35,7 @@
     "name": "Potplayer",
     "description": "PotPlayer is a multimedia player renowned for its efficiency, versatility, and advanced features.",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/potplayer/"
   },
@@ -45,7 +45,7 @@
     "name": "Folo",
     "description": "Folo is a community-driven information hub designed for content curation and knowledge sharing through combining traditional RSS functionality with AI-powered features.",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/folo/"
   },
@@ -55,7 +55,7 @@
     "name": "Brisk Teaching",
     "description": "Brisk Teaching is an AI-enhanced platform designed to generate study materials and track student progress.",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/briskteaching/"
   },
@@ -75,7 +75,7 @@
     "name": "Napkin AI",
     "description": "Napkin AI is an AI-powered visual storytelling tool designed to transform text into professional diagrams, flowcharts, infographics, and other visual forms for communication.",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/napkin-ai/"
   },
@@ -85,7 +85,7 @@
     "name": "Notion",
     "description": "Notion is an all-in-one workspace software that combines note-taking, task management, databases, calendars, and collaboration tools into a single platform. ",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/notion/"
   },
@@ -115,7 +115,7 @@
     "name": "NotebookLM",
     "description": "NotebookLM is an AI-powered research and note-taking assistant developed by Google, designed to function as a thinking partner. It is a specialised tool that grounds its responses exclusively in the documents and sources provided by the user.",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/notebooklm/"
   },
@@ -125,7 +125,7 @@
     "name": "ChatPDF",
     "description": "ChatPDF enables users to converse with their documents, extracting insights, summarizing content, and navigating complex texts through natural language queries.",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/chatpdf/"
   },
@@ -145,7 +145,7 @@
     "name": "Coze (扣子)",
     "description": "Coze is an AI-powered chatbot development platform that enables users to create, deploy, and manage intelligent conversational agents.",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/coze/"
   },
@@ -155,7 +155,7 @@
     "name": "Sejda PDF",
     "description": "Sejda PDF is a browser-based PDF editing and management tool that delivers comprehensive PDF management solutions with remarkable user-friendliness.",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/sejdapdf/"
   },
@@ -185,7 +185,7 @@
     "name": "gamma",
     "description": "Gamma is an AI-driven content creation platform simplifying the production of presentations, documents, and webpages. The platform analyzes user inputs-whether text prompts, imported documents, or website URLs-to generate structured layouts that adhere to principles of visual hierarchy and information design. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/gamma/"
   },
@@ -205,7 +205,7 @@
     "name": "Immersive Translate (沉浸式翻译)",
     "description": "Immersive Translate is a powerful AI-driven translation extension that provides bilingual webpage translation, video subtitle translation, and document translation for PDFs and EPUBs.",
     "categories": [
-      "Language learning"
+      "Language Learning"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/immersivetranslate/"
   },
@@ -225,7 +225,7 @@
     "name": "uTools",
     "description": "uTools is a modular productivity toolkit that combines 100+ plugins into one platform, offering hotkey-driven tools for tasks like OCR, file management, translation, and automation. ",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/utools/"
   },
@@ -235,7 +235,7 @@
     "name": "Obsidian",
     "description": "Obsidian assist individuals and professionals organize information, develop ideas, and produce long-form content. It has emerged as a tool for knowledge management and creative writing. ",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/obsidian/"
   },
@@ -245,7 +245,7 @@
     "name": "AnytxtSearcher",
     "description": "Anytxt Searcher is a desktop search tool designed to enhance document retrieval efficiency. It uses a high-speed indexing engine to search full text across diverse file formats, including PDFs, Office documents, eBooks, and images. ",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/anytxtsearcher/"
   },
@@ -255,7 +255,7 @@
     "name": "Everything",
     "description": "Everything is a file search utility designed to locate document and retrieve resource. It indexes filenames in local drives. Also, document use history could also be parameters for searching, like last modified date or files opened in the last week. ",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/everything/"
   },
@@ -265,7 +265,7 @@
     "name": "ima.copilot",
     "description": "ima.copilot is designed to streamline knowledge acquisition, organization, and creative output for both individual users and teams. ",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/imacopilot/"
   },
@@ -275,7 +275,7 @@
     "name": "anytype",
     "description": "Anytype is a productivity and knowledge-management platform that empowers users to own their data while providing a suite of features, including note-taking, task management, and database functionalities into a unified interface. ",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/anytype/"
   },
@@ -285,7 +285,7 @@
     "name": "pot-app",
     "description": "Pot-app is an open-source translation and OCR (Optical Character Recognition) tool designed to break language barriers. It supports real-time text translation, screenshot OCR, and text-to-speech features. ",
     "categories": [
-      "Language learning"
+      "Language Learning"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/potapp/"
   },
@@ -295,7 +295,7 @@
     "name": "Koodo Reader",
     "description": "Koodo Reader is an open-source, cross-platform eBook reader designed for academic and leisure reading. Supporting 15+ formats (EPUB, PDF, MOBI, DOCX, etc.), it offers annotation tools and accessibility features like text-to-speech and multilingual translation.",
     "categories": [
-      "Language learning"
+      "Language Learning"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/koodoreader/"
   },
@@ -305,7 +305,7 @@
     "name": "FxSound",
     "description": "FxSound is an AI-driven audio enhancement tool that optimizes sound quality for different content, such as lectures, podcasts, and multimedia resources. It uses targeted equalizer to clarify speech, reduce background noise, and customize audio profiles. ",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/fxsound/"
   },
@@ -325,7 +325,7 @@
     "name": "Scoop",
     "description": "Scoop provides a command-line interface (CLI) for installing, updating, and removing applications without the need for graphical installers or administrative privileges. ",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/scoop/"
   },
@@ -335,7 +335,7 @@
     "name": "Saladict (沙拉查词)",
     "description": "Saladict is an open-source browser extension designed for professional bilingual translation and multilingual dictionary lookup. It is an efficient tool for academic reading, writing, and language learning. ",
     "categories": [
-      "Language learning"
+      "Language Learning"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/saladict/"
   },
@@ -345,7 +345,7 @@
     "name": "UniGetUI",
     "description": "UniGetUI serves as an intuitive front-end for multiple command-line package managers, enabling users to install, update, and manage software without needing to interact with the command line. ",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/unigetui/"
   },
@@ -355,7 +355,7 @@
     "name": "Quicker",
     "description": "Quicker has evolved into a robust platform that combines the flexibility of a launcher with the power of visual programming, enabling users to reduce repetitive tasks and complex operations into single-click solutions. ",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/quicker/"
   },
@@ -375,7 +375,7 @@
     "name": "ProWritingAid",
     "description": "ProWritingAid is an AI-powered writing assistant designed to refine writing. It combines grammar checking, style analysis, and readability to help users produce polished work. Students, researchers, and educators can receive real-time feedback on their piece of work. ",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/prowritingaid/"
   },
@@ -385,7 +385,7 @@
     "name": "Symbolab",
     "description": "Symbolab is an AI-driven math solver and educational platform offering step-by-step solutions for calculus, algebra, geometry, and other topics. It assists university students and educators in solving mathematical problems and visualizing concepts. ",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/symbolab/"
   },
@@ -435,7 +435,7 @@
     "name": "AudioPen",
     "description": "AudioPen AI is an AI-powered dictation tool that converts voice notes into polished, editable text. It assists users in brainstorming ideas, drafting documents, or capturing thoughts verbally. ",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/audiopen/"
   },
@@ -445,7 +445,7 @@
     "name": "OCR-Image Reader",
     "description": "OCR - Image Reader is a Chrome extension that provides powerful optical character recognition (OCR) capability to extract text from images, PDFs, presentations, and other visual content. ",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/ocrimagereader/"
   },
@@ -455,7 +455,7 @@
     "name": "writetone",
     "description": "Writetone is an AI-powered writing assistant designed to address one of the most fundamental challenges in written communication, achieving the appropriate tone and style for any given context. ",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/writetone/"
   },
@@ -465,7 +465,7 @@
     "name": "Thea",
     "description": "Thea is an AI-powered tool to help transforming static content into interactive practices. Its NLP algorithms create keyword-tagged summaries. The summaries could be exported as flashcards or shared with study groups. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/thea/"
   },
@@ -475,7 +475,7 @@
     "name": "Genially",
     "description": "Genially is a cloud-based tool enabling the design of visually rich, interactive experiences that transcend traditional slide-based presentations. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/genially/"
   },
@@ -485,7 +485,7 @@
     "name": "Habitica",
     "description": "Habitica is a gamified productivity tool that transforms daily tasks into a role-playing game (RPG). Users create avatars, earn rewards, and battle monsters by completing real-world tasks like assignments, study sessions or essay deadlines. ",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/habitica/"
   },
@@ -495,7 +495,7 @@
     "name": "Cursor",
     "description": "Cursor is an AI-enhanced code editor designed to accelerate software development through intelligent code prediction and manipulation.",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/cursor/"
   },
@@ -515,7 +515,7 @@
     "name": "Diffit",
     "description": "Diffit is an AI-powered platform designed to help educators quickly create standards-aligned instructional materials. It enables teachers to adapt content to diverse learning levels, languages, and needs. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/diffit/"
   },
@@ -525,7 +525,7 @@
     "name": "OpenCC",
     "description": "OpenCC is an open-source tool for converting text between Simplified Chinese, Traditional Chinese (Taiwan/Hong Kong standards), and Japanese Shinjitai. By differentiating texts across Chinese-speaking regions, this tool helps academic research to address regional linguistic nuances in the context of linguistics, digital humanities, and historical document analysis.",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/opencc/"
   },
@@ -535,7 +535,7 @@
     "name": "Manus",
     "description": "Manus is a general-purpose, autonomous AI agent designed to function as an all-in-one assistant for academic and professional tasks. It bridges the gap between intent and action by not just providing information, but by independently executing complex, multi-step projects from start to finish.",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/manus/"
   },
@@ -555,7 +555,7 @@
     "name": "Zoomit",
     "description": "ZoomIt transforms standard presentations by turning computers and tablet PCs into responsive whiteboards, enabling presenters to communicate more effectively through dynamic screen manipulation and visual annotation capabilities.",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/zoomit/"
   },
@@ -565,7 +565,7 @@
     "name": "Aboboo",
     "description": "Aboboo is a language-learning software designed to enhance listening, speaking, and writing skills through interactive tools like sentence repetition, dictation, and pronunciation analysis. ",
     "categories": [
-      "Language learning"
+      "Language Learning"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/aboboo/"
   },
@@ -595,7 +595,7 @@
     "name": "to teach",
     "description": "To Teach employs a Human-Centered AI approach that positions educators as curators rather than passive consumers of automated content. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/toteach/"
   },
@@ -605,7 +605,7 @@
     "name": "Mubu (幕布)",
     "description": "Mubu integrates hierarchical outlining, mind mapping, and collaborative functionalities to addresses the challenges of fragmented note-taking, complex project planning, and unstructured daily tasks.",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/mubu/"
   },
@@ -645,7 +645,7 @@
     "name": "PhET",
     "description": "The PhET is a set of free and open-access tools, these simulations merge rigorous academic research with intuitive, game-like interactivity to foster deep conceptual understanding across diverse learning environments. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/phet/"
   },
@@ -655,7 +655,7 @@
     "name": "Mentimeter",
     "description": "Mentimeter is an interactive presentation platform designed to enables presenters to create interactive content that encourages audience involvement through polls, quizzes, and feedback mechanisms, making it an effective tool for classrooms. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/mentimeter/"
   },
@@ -665,7 +665,7 @@
     "name": "AutoHotkey",
     "description": "AutoHotkey is a robust automation platform with a dedicated community of users and developers. Its combination of hotkey support, text expansion, GUI creation, and deep Windows integration makes it an invaluable tool for users seeking to enhance productivity and automate repetitive tasks.",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/autohotkey/"
   },
@@ -675,7 +675,7 @@
     "name": "Classdojo",
     "description": "ClassDojo integrates behavior tracking, parent-teacher interaction, and student portfolios into a cohesive interface. Dojo Islands in the ClassDojo offers a unique blend of play-based exploration and skill development. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/classdojo/"
   },
@@ -685,7 +685,7 @@
     "name": "Burning Vocabulary",
     "description": "Burning Vocabulary is a browser extension designed to enhance vocabulary acquisition by integrating word learning into everyday reading. It allows users to highlight unfamiliar words on any webpage or PDF, automatically saving them with definitions, pronunciation, and contextual sentences. ",
     "categories": [
-      "Language learning"
+      "Language Learning"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/burningvocabulary/"
   },
@@ -715,7 +715,7 @@
     "name": "Eduaide.AI",
     "description": "Eduaide.AI is an AI-powered teaching workspace designed to streamline lesson planning, resource creation, and feedback processes for educators. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/eduaideai/"
   },
@@ -725,7 +725,7 @@
     "name": "Wakelet",
     "description": "Wakelet is a powerful content curation and collaboration platform that enables users to organize, manage, and share digital content in an easily accessible format. ",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/wakelet/"
   },
@@ -735,7 +735,7 @@
     "name": "DeepL Translator",
     "description": "DeepL Translator is an AI-driven translation service renowned for its unparalleled accuracy in handling complex texts. ",
     "categories": [
-      "Language learning"
+      "Language Learning"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/deepltranslator/"
   },
@@ -755,7 +755,7 @@
     "name": "Quiz wizard",
     "description": "Quiz Wizard platform enables the rapid generation of  pedagogical materials including multiple-choice questions (MCQs), flashcards, and theory sheets across diverse subjects. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/quizwizard/"
   },
@@ -765,7 +765,7 @@
     "name": "STORM",
     "description": "STORM operates through a turn-based interaction model that balances AI initiative with human guidance. ",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/storm/"
   },
@@ -775,7 +775,7 @@
     "name": "Curipod",
     "description": "Curipod centers on ensuring every student contributes actively during lessons. Unlike conventional digital tools that often isolate learners behind screens, the platform fosters a supportive environment where students engage in peer-driven activities while maintaining anonymity.",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/curipod/"
   },
@@ -845,7 +845,7 @@
     "name": "LanguageTool",
     "description": "LanguageTool is a comprehensive writing assistant extends far beyond basic spell checking, offering advanced grammar correction, style enhancement, and multi-language support that helps users produce polished and professional content.",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/languagetool/"
   },
@@ -855,7 +855,7 @@
     "name": "Magic School AI",
     "description": "MagicSchoolAI addresses every facet of classroom management and instruction. Lesson planners incorporate backward design principles, aligning activities with specified learning objectives and assessment rubrics. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/magicschoolai/"
   },
@@ -875,7 +875,7 @@
     "name": "Twine",
     "description": "Twine is a free, open-source tool for creating interactive, nonlinear stories and text-based games. Twine enables users to build stories visually through interconnected passages on a story map, without requiring prior programming knowledge. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/twine/"
   },
@@ -885,7 +885,7 @@
     "name": "Diffuse",
     "description": "Diffuse is a small yet powerful open-source graphical tool designed for merging and comparing text files. ",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/diffuse/"
   },
@@ -915,7 +915,7 @@
     "name": "olmocr",
     "description": "olmOCR is a free online tool that transforms images and PDF documents into editable text using advanced artificial intelligence technology. ",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/olmocr/"
   },
@@ -965,7 +965,7 @@
     "name": "Monica",
     "description": "Monica is a digital assistance combining advanced artificial intelligence with seamless browser integration to redefine how users interact with information across the web. ",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/monica/"
   },
@@ -975,7 +975,7 @@
     "name": "Readest",
     "description": "Readest is a comprehensive open-source e-book reader designed specifically for immersive and deep reading experiences. ",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/readest/"
   },
@@ -985,7 +985,7 @@
     "name": "CloudConvert",
     "description": "CloudConvert is a web-based file conversion platform allowing users to seamlessly convert files, compress files, and create website screenshots. ",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/cloudconverter/"
   },
@@ -995,7 +995,7 @@
     "name": "Google Scholar PDF Reader",
     "description": "Google Scholar PDF Reader is a Chrome extension developed to addresses long-standing challenges in scholarly reading by providing an enhanced PDF reading experience without sacrificing the simplicity of the format. ",
     "categories": [
-      "Document processing"
+      "Document Processing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/googlescholarpdfreader/"
   },
@@ -1005,7 +1005,7 @@
     "name": "Doco",
     "description": "Doco is an Artificial Intelligence (AI) powered add-in for Microsoft Word, engineered to function as an integrated knowledge management and content creation assistant.",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/doco/"
   },
@@ -1015,7 +1015,7 @@
     "name": "Coze Space",
     "description": "Coze Space is a general-purpose AI Agent and multi-functional office assistant developed by ByteDance. It is designed to support productivity and creative tasks by integrating a suite of intelligent tools. ",
     "categories": [
-      "Efficiency enhancement"
+      "Efficiency Enhancement"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/coze-space/"
   },
@@ -1025,7 +1025,7 @@
     "name": "Ebookmaker",
     "description": "Ebookmaker.ai is an online, web-based platform engineered to generate complete e-books and audiobooks from a simple user prompt.",
     "categories": [
-      "Intelligent writing"
+      "Intelligent Writing"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/ebookmaker/"
   },
@@ -1035,7 +1035,7 @@
     "name": "Lumi",
     "description": "Lumi is a versatile educational tool designed to create, edit, and share interactive learning content based on the H5P standard. ",
     "categories": [
-      "Instructional design"
+      "Instructional Design"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/lumi/"
   },
@@ -1065,7 +1065,7 @@
     "name": "Readwise",
     "description": "Readwise is a comprehensive knowledge management and reading companion designed to help users retain and apply what they learn.",
     "categories": [
-      "Knowledge management"
+      "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/readwise/"
   }
