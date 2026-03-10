@@ -1068,5 +1068,15 @@
       "Knowledge Management"
     ],
     "url": "https://www.hkmu.edu.hk/oetools/readwise/"
+  },
+    {
+    "id": 108,
+    "logo": "<img src=\"https://www.hkmu.edu.hk/oetools/wp-content/uploads/sites/86/2026/03/108-Anki-Logo.png\" alt=\"Tool Logo\" style=\"height: 80px;\">",
+    "name": "Anki",
+    "description": "Anki is a powerful, open-source flashcard program that uses a smart spaced repetition system (SRS) to help users memorise information efficiently and retain it long-term.",
+    "categories": [
+      "Others"
+    ],
+    "url": "https://www.hkmu.edu.hk/oetools/anki/"
   }
 ]
